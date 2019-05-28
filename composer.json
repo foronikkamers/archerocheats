@@ -1,0 +1,25 @@
+{
+    "name": "top-archero/archero-cheats-tricks-gems-free",
+    "description": "Download Archero Hack Mod Apk 1.30.0 latest version of Archero Cheats Apk",
+    "homepage": "https://github.com/serwonilmed/gameofthronesconquest/",
+	"keywords": ["Archero mod apk"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CLICK Here Archero",
+            "homepage": "https://mobiletiperz.com/archero-cheats-guide-tricks",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
